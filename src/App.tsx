@@ -1,7 +1,6 @@
 import "./App.css";
 import CostCalculator from "./CostCalculator";
 
-
 function App() {
   return (
     <div className="App">
